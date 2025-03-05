@@ -1,6 +1,6 @@
 package sept.exe_14092024;
 
-public class Lab038 {
+public class Lab038_0Ternary_op_max_min {
     public static void main(String[] args) {
         // Max,Min b/w 2 numbers
         int tushar_salary = 4;
